@@ -1,6 +1,7 @@
 # Exercises
 #python Exercises 
-#this included simple python programmes. 
+#this included simple python programme.
+"""The game is played by Dealerand Player. Dealergenerates a randominteger number between 0 and 10. Player has to guess it. The program should take input from Player as long as Player inputs same numberas Dealer’s input was. Player getsadviceto choose greater or smaller numbers in next choice.Finally,program has to also displaythe number of tries until the number is guessed and program to allow second play where another player can play and finally also display fi Player1 or Player2 wins, by comparing the numbers of tries and choosing the one with smaller number."""
 
 import random
 Guess_1 =0
